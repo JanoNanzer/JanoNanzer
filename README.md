@@ -33,7 +33,7 @@ My name is Jano Nanzer Gallo ↙
   <a href="https://mi-scusi-books.vercel.app/login"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/login.png"></a>
 </p>
 <p>
-  <a href="https://mi-scusi-books.vercel.app/login"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/profile.png"></a>
+  <a href="https://mi-scusi-books.vercel.app/"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/profile.png"></a>
   <a href="https://mi-scusi-books.vercel.app/shopping/cart"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/cart.png"></a>
   <a href="https://mi-scusi-books.vercel.app/"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/pdfreader.png"></a>
 </p>
@@ -45,15 +45,14 @@ My name is Jano Nanzer Gallo ↙
 
 <h3>PokéDex App</h3>
 <p>
-  <a><img src=""></a>
-  <a><img src=""></a>
-  <a><img src=""></a>
+  <a href="https://pi-pokemon-main-client-2ur8.vercel.app/"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PI/Screenshot%202022-11-07%20165346.png"></a>
+  <a href="https://pi-pokemon-main-client-2ur8.vercel.app/home"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PI/Screenshot%202022-11-07%20165405.png"></a>
+  <a href="https://pi-pokemon-main-client-2ur8.vercel.app/home/18"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PI/Screenshot%202022-11-08%20164425.png"></a>
 </p>
 <p>
-  <a><img src=""></a>
-  <a><img src=""></a>
+  <a href="https://pi-pokemon-main-client-2ur8.vercel.app/createPokemon"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PI/Screenshot%202022-11-08%20164324.png"></a>
+  <a href="https://pi-pokemon-main-client-2ur8.vercel.app/home"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PI/Screenshot%202022-11-08%20164502.png"></a>
 </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janonanzer&label=Profile%20views&color=0e75b6&style=flat" alt="janonanzer" /> </p>
 
