@@ -1,9 +1,11 @@
 <!---
-### ![Banner para Linkedin Profesional Negro](https://user-images.githubusercontent.com/101297908/194783242-c9530da4-0098-4c28-85be-eb1d162eac94.gif)
+https://github.com/JanoNanzer/JanoNanzer/blob/main/Jano.gif
+### ![Banner para Linkedin Profesional Negro](https://www.canva.com/design/DAFRUx0lTnU/HfkzwSLMFDdDNskEZnRc3Q/watch?utm_content=DAFRUx0lTnU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 --->
+![Hi, I'm Wanda](https://github.com/JanoNanzer/JanoNanzer/blob/main/Jano.gif)
 
 Hola!👋 
-Mi nombre es Jano Nanzer y voy a contarte sobre mi ↙
+Mi nombre es Jano Nanzer Gallo ↙
 
 Soy Full Stack Web Developer graduado 🎓 en Henry!!
 
