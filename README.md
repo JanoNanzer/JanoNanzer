@@ -27,7 +27,32 @@ My name is Jano Nanzer Gallo ↙
 ## 💻 Projects
 
 <h3>Mi Scusi Books</h3>
+<p>
+  <a><img src=""></a>
+  <a><img src=""></a>
+  <a><img src=""></a>
+</p>
+<p>
+  <a><img src=""></a>
+  <a><img src=""></a>
+  <a><img src=""></a>
+</p>
+<p>
+  <a><img src=""></a>
+  <a><img src=""></a>
+  <a><img src=""></a>
+</p>
 
+<h3>PokéDex App</h3>
+<p>
+  <a><img src=""></a>
+  <a><img src=""></a>
+  <a><img src=""></a>
+</p>
+<p>
+  <a><img src=""></a>
+  <a><img src=""></a>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janonanzer&label=Profile%20views&color=0e75b6&style=flat" alt="janonanzer" /> </p>
