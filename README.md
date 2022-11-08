@@ -28,19 +28,19 @@ My name is Jano Nanzer Gallo ↙
 
 <h3>Mi Scusi Books</h3>
 <p>
-  <a><img src=""></a>
-  <a><img src=""></a>
-  <a><img src=""></a>
+  <a href="https://mi-scusi-books.vercel.app/"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/home.jpeg"></a>
+  <a href="https://mi-scusi-books.vercel.app/books"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/allbooks.png"></a>
+  <a href="https://mi-scusi-books.vercel.app/login"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/login.png"></a>
 </p>
 <p>
-  <a><img src=""></a>
-  <a><img src=""></a>
-  <a><img src=""></a>
+  <a href="https://mi-scusi-books.vercel.app/login"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/profile.png"></a>
+  <a href="https://mi-scusi-books.vercel.app/shopping/cart"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/cart.png"></a>
+  <a href="https://mi-scusi-books.vercel.app/"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/pdfreader.png"></a>
 </p>
 <p>
-  <a><img src=""></a>
-  <a><img src=""></a>
-  <a><img src=""></a>
+  <a href="https://mi-scusi-books.vercel.app/"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/create.png"></a>
+  <a href="https://mi-scusi-books.vercel.app/"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/dashboard.png"></a>
+  <a href="https://mi-scusi-books.vercel.app/"><img height="150em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/logo3.png"></a>
 </p>
 
 <h3>PokéDex App</h3>
